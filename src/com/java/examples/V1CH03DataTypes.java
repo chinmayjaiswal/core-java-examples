@@ -8,6 +8,7 @@ package com.java.examples;
  * float 		4 bytes Approximately ±3.40282347E+38F (6–7 significant decimal digits)
  * double		8 bytes Approximately ±1.79769313486231570E+308 (15 significant decimal digits)
  * char			2	bytes
+ *
  */
 public class V1CH03DataTypes {
 
